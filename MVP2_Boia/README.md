@@ -18,8 +18,7 @@ O **MVP 2** consolida a segunda geração da arquitetura do ecossistema H.I.D.R.
 | Ensaio em Campo — Vista Lateral | Ensaio em Campo — Operação |
 | :---: | :---: |
 | <img src="https://github.com/user-attachments/assets/bab9130b-93eb-4cdd-9b27-c74381e09ee3" width="350" alt="Boia MVP2 em Campo 1"> | <img src="https://github.com/user-attachments/assets/b7f5b7c7-75db-41ae-b007-f16aa46d8e74" width="350" alt="Boia MVP2 em Campo 2"> |
-| *Validação de flutuabilidade <img width="972" height="682" alt="WhatsApp Image 2026-07-21 at 11 18 10 PM" src="https://github.com/user-attachments/assets/00104136-54e6-4a23-aedd-a1801bd3d950" />
- no Canal da Cohab* | *Estação autônoma realizando medições e telemetria em tempo real* |
+| *Validação de flutuabilidade* | *Estação autônoma realizando medições e telemetria em tempo real* |
 
 
 ---
