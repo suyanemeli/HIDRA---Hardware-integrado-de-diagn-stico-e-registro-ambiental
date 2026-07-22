@@ -27,7 +27,7 @@ Temperatura, Condutividade Elétrica e OD).
 
 | Módulo Flutuante (Boia) | Módulo de Margem (Torre) | Visão Conjunta / Instalação |
 | :---: | :---: | :---: |
-| <img src="https://github.com/user-attachments/assets/bde4e551-89c2-4eb5-b3fa-0f74d8044bed" width="300" alt="Boia MVP1"> | | |
+|  |<img src="https://github.com/user-attachments/assets/bde4e551-89c2-4eb5-b3fa-0f74d8044bed" width="300" alt="Boia MVP1"> | |
 | *Estrutura da Boia* | | |
 
 ## ⚡ Esquemas Elétricos e Layouts das Placas (PCBs)
